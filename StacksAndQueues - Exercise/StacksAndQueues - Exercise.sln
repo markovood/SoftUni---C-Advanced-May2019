@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{D4B551FC-FC85-4892-9578-A55F39C6C02F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRepairAndService", "AutoRepairAndService\AutoRepairAndService.csproj", "{635ECEE5-0FC6-4999-A1E8-FC5F87D031FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D4B551FC-FC85-4892-9578-A55F39C6C02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4B551FC-FC85-4892-9578-A55F39C6C02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4B551FC-FC85-4892-9578-A55F39C6C02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635ECEE5-0FC6-4999-A1E8-FC5F87D031FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635ECEE5-0FC6-4999-A1E8-FC5F87D031FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635ECEE5-0FC6-4999-A1E8-FC5F87D031FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635ECEE5-0FC6-4999-A1E8-FC5F87D031FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
