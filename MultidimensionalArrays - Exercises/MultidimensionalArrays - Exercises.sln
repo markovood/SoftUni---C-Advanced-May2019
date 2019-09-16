@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixShuffling", "MatrixSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{3BC1F3CA-6B6A-475A-B746-DE5C98D38AEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombTheBasement", "BombTheBasement\BombTheBasement.csproj", "{04AC25B0-DF2A-4EF8-BFC7-D74EE3489B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3BC1F3CA-6B6A-475A-B746-DE5C98D38AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC1F3CA-6B6A-475A-B746-DE5C98D38AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC1F3CA-6B6A-475A-B746-DE5C98D38AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AC25B0-DF2A-4EF8-BFC7-D74EE3489B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AC25B0-DF2A-4EF8-BFC7-D74EE3489B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AC25B0-DF2A-4EF8-BFC7-D74EE3489B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AC25B0-DF2A-4EF8-BFC7-D74EE3489B5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
