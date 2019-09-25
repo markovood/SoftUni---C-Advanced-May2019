@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\Word
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyBinaryFile", "CopyBinaryFile\CopyBinaryFile.csproj", "{05ED9487-AA99-4C58-BD64-A310D5C0A7DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTraversal", "DirectoryTraversal\DirectoryTraversal.csproj", "{39F774DB-FB60-429B-A25C-EDE2BA0D91E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{05ED9487-AA99-4C58-BD64-A310D5C0A7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05ED9487-AA99-4C58-BD64-A310D5C0A7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05ED9487-AA99-4C58-BD64-A310D5C0A7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F774DB-FB60-429B-A25C-EDE2BA0D91E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F774DB-FB60-429B-A25C-EDE2BA0D91E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F774DB-FB60-429B-A25C-EDE2BA0D91E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F774DB-FB60-429B-A25C-EDE2BA0D91E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
